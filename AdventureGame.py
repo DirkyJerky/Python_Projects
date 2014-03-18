@@ -10,8 +10,8 @@
 import time as ti
 import random as r
 ### GLOBAL VARIBALES ###
-MAINCOUNT = 0
 SCREENTEXT = []
+HEALTH = 10
 ### FUNCTION DEFINITIONS ###
 def fan_print(text):
     lngth = len(text)
@@ -25,11 +25,16 @@ def fan_print(text):
         for i in range(int(many)):
             SCREENTEXT.append(text[80*(i+1):((i+2)*80)])
         redraw_screen()
+def add_leading0(number):
+    if len(str(number)) == 1:
+        return "0"+str(number)
+    else:
+        return str(number)
     
 def redraw_screen():
     print "+"+"-"*78+"+"
     print "|"
-    print "|"
+    print "|  HEALTH: %s/10" %(add_leading0(HEALTH))
     print "|"
     print "+"+"-"*78+"+"
     if len(SCREENTEXT) <= 34:
@@ -42,13 +47,5 @@ def redraw_screen():
     
 ### MAIN BODY ###
 redraw_screen()
-fan_print("You Find yourself in a class room filled with slighty nerdy looking people awdlawhbnklawjhdkaljwhdakjwhdakwjhdakwjdhakwjhdakwjhdakjwdhakjwhdakwjhdakjwdhakwjhkljahkajshdgkjawhdakwjhdak\
-jwhdkajwhdakjwhdkajwhdkjawhdhdakwjhdakjwdh")
 ti.sleep(1)
-fan_print("You Find yourself in a class room filled with slighty nerdy looking people awdlawhbnklawjhdkaljwhdakjwhdakwjhdakwjdhakwjhdakwjhdakjwdhakjwhdakwjhdakjwdhakwjhkljahkajshdgkjawhdakwjhdak\
-jwhdkajwhdakjwhdkajwhdkjawhdhdakwjhdakjwdh")
 
-
-
-
-#"a","b","c","4","b","c","7","b","c","10","b","c","13","b","c","16","b","c","19","b","c","22","b","c","25","b","c","28","b","c","31","b","c","34","b","c","37","b","c","40"
