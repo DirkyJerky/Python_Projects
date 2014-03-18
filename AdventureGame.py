@@ -14,6 +14,7 @@ SCREENTEXT = []
 HEALTH = 10
 ### FUNCTION DEFINITIONS ###
 def fan_print(text):
+    global SCREENTEXT
     lngth = len(text)
     if lngth <= 80:
         SCREENTEXT.append(text)
@@ -32,6 +33,8 @@ def add_leading0(number):
         return str(number)
     
 def redraw_screen():
+    global SCREENTEXT
+    global HEALTH
     print "+"+"-"*78+"+"
     print "|"
     print "|  HEALTH: %s/10" %(add_leading0(HEALTH))
@@ -48,4 +51,5 @@ def redraw_screen():
 ### MAIN BODY ###
 redraw_screen()
 ti.sleep(1)
-
+fan_print("Hey bro this is a very long string that I am testing my redraw function with, \
+it does multiple line stuff.")
