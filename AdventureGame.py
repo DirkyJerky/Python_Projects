@@ -51,5 +51,3 @@ def redraw_screen():
 ### MAIN BODY ###
 redraw_screen()
 ti.sleep(1)
-fan_print("Hey bro this is a very long string that I am testing my redraw function with, \
-it does multiple line stuff.")
