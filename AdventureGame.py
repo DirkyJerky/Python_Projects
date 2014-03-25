@@ -24,7 +24,7 @@ Level4 = [{}]
 LevelAcc = {"1" : Level1,"2" : Level2, "3" : Level3 , "4" : Level4}
 con = {1 : "c_on_1", 2 : "c_on_2", 3 : "c_on_3",  4 : "c_on_4"}
 choice_dic = {"a": 0, "b" : 1, "c": 2, "d" : 3}
-action_functions {"Game_over" : }
+action_functions = {"Game_over" : ""}
 
 ### SCREEN FUNCTIONS ###
 
@@ -95,7 +95,7 @@ def choice_chooser():
     choice = raw_input()
     if choice == "exit":
            exit
-    elif choice.lower() == "a" or "b" or "c" or "d":
+    elif choice.lower() == "a" or choice.lower() == "b" or choice.lower() == "c" or choice.lower() =="d":
         player[con[player["c_c_l"]]] = choice_dic[choice.lower()]
         choice_ = choice_dic[choice.lower()]
         temp = choices_main[choice_title[choice_]]
