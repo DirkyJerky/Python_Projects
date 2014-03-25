@@ -11,11 +11,10 @@ import time as ti
 import random as r
 ### GLOBAL VARIBALES ###
 SCREENTEXT = []
-HEALTH = 100
-CURRENT_CHOICE_LEVEL = 1
-CUREENT_CHOICE_SET = 0
+## Player Data ###
+player = {"health" : 100,"c_c_l" : 1, "c_c_s" : 0,"c_on_1": "","c_on_2" : "", "c_on_3": "","c_on_4": ""}
 ### Choice Layers Defs ###
-Level1 = {"A)Run out the door screaming" : {"res": "You run out the door screaming and run right into the principal,You get detention...", "meta" : "Game_over"},"B)###" : {"res": "", "meta" : ""},"C)###" : {"res": "", "meta" : ""},"D)###" : {"res": "", "meta" : ""}}
+Level1 = {"A)Run out the door screaming" : {"res": "You run out the door screaming and run right into the principal,You get detention...", "meta" : "Game_over"},"B)Open trapdoor next to your desk and enter." : {"res": "You open the trapdoor and look down. there is a ladder below,you climb down and find yourself in a long tunnel.", "meta" : "next"},"C)###" : {"res": "", "meta" : ""},"D)###" : {"res": "", "meta" : ""}}
 Level2 = [{}]
 Level3 = [{}]
 Level4 = [{}]
@@ -23,11 +22,12 @@ Level4 = [{}]
 
 ### Uhh stuffy confueded stuff ###
 LevelAcc = {"1" : Level1,"2" : Level2, "3" : Level3 , "4" : Level4}
-c_on_1 = ""
-c_on_2 = ""
-c_on_3 = ""
-c_on_4 = ""
-### FUNCTION DEFINITIONS ###
+con = {1 : "c_on_1", 2 : "c_on_2", 3 : "c_on_3",  4 : "c_on_4"}
+choice_dic = {"a": 0, "b" : 1, "c": 2, "d" : 3}
+action_functions {"Game_over" : }
+
+### SCREEN FUNCTIONS ###
+
 def fan_print(text):
     global SCREENTEXT
     lngth = len(text)
@@ -52,10 +52,9 @@ def add_leading0(number):
 
 def redraw_screen():
     global SCREENTEXT
-    global HEALTH
     print "+"+"-"*78+"+"
     print "|"
-    print "|  HEALTH: %s/100" %(add_leading0(HEALTH))
+    print "|  HEALTH: %s/100" %(add_leading0(player["health"]))
     print "|"
     print "+"+"-"*78+"+"
     if len(SCREENTEXT) <= 34:
@@ -65,26 +64,28 @@ def redraw_screen():
     else:
         for i in range(34):
             print SCREENTEXT[len(SCREENTEXT)-34+i]
+            
+### FUNCTION DEFINITIONS ###
+            
 def fetch_choices():
-    if CURRENT_CHOICE_LEVEL == 1:
+    if player["c_c_l"] == 1:
         return Level1
-    elif CURRENT_CHOICE_LEVEL == 2:
-        temp = Level2[c_on_1]
+    elif player["c_c_l"] == 2:
+        temp = Level2[player["c_on_1"]]
         return temp
-    elif CURRENT_CHOICE_LEVEL == 3:
-        temp = Level3[c_on_1]
-        temp = temp[c_on_2]
+    elif player["c_c_l"] == 3:
+        temp = Level3[player["c_on_1"]]
+        temp = temp[player["c_on_2"]]
         return temp
-    elif CURRENT_CHOICE_LEVEL == 4:
-        temp = Level4[c_on_1]
-        temp = temp[c_on_2]
-        temp = temp[c_on_3]
+    elif player["c_c_l"] == 4:
+        temp = Level4[player["c_on_1"]]
+        temp = temp[player["c_on_2"]]
+        temp = temp[player["c_on_3"]]
         return temp
 
 
 def choice_chooser():
-    global CURRENT_CHOICE_LEVEL 
-    global CUREENT_CHOICE_SET
+    global player
     fan_print ("Do you:")
     choices_main = fetch_choices()
     choice_title = choices_main.keys()
@@ -95,16 +96,19 @@ def choice_chooser():
     if choice == "exit":
            exit
     elif choice.lower() == "a" or "b" or "c" or "d":
-        fan_print("null")
-           
+        player[con[player["c_c_l"]]] = choice_dic[choice.lower()]
+        choice_ = choice_dic[choice.lower()]
+        temp = choices_main[choice_title[choice_]]
+        fan_print(temp["res"])
 def introduction():
     intro = "Gaa, you appear to have fallen asleep in Mr. Stoddard's class again, You look at the computer infront of you, then at the clock which reads '7:55', You sigh, 6 hours of school left and you are already falling asleep. You hope you can avoid getting detention today. You start thinking about what you should do first..."
     fan_print(intro)
-    fan_print(intro)
 def main():
     introduction()
+    print SCREENTEXT
     choice_chooser()
 ### MAIN BODY ###
 redraw_screen()
 main()
 ti.sleep(1)
+{"A)###" : {"res": "", "meta" : ""},"B)###" : {"res": "", "meta" : ""},"C)###" : {"res": "", "meta" : ""},"D)###" : {"res": "", "meta" : ""}}
