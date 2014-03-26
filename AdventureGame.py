@@ -14,8 +14,8 @@ SCREENTEXT = []
 ## Player Data ###
 player = {"health" : 100,"c_c_l" : 1, "c_c_s" : 0,"c_on_1": "","c_on_2" : "", "c_on_3": "","c_on_4": ""}
 ### Choice Layers Defs ###
-Level1 = {"A)Run out the door screaming" : {"res": "You run out the door screaming and run right into the principal,You get detention...", "meta" : "Game_over"},"B)Open trapdoor next to your desk and enter." : {"res": "You open the trapdoor and look down. there is a ladder below,you climb down and find yourself in a long tunnel.", "meta" : "next"},"C)###" : {"res": "", "meta" : ""},"D)###" : {"res": "", "meta" : ""}}
-Level2 = [{}]
+Level1 = {"A)Run out the door screaming" : {"res": "You run out the door screaming and run right into the principal,You get detention...", "meta" : "Game_over"},"B)Open trapdoor next to your desk and enter." : {"res": "You open the trapdoor and look down. there is a ladder below,you climb down and find yourself in a long tunnel.", "meta" : "next"},"C)Jump through the window like a badass" : {"res": "You look super badass jumping through that window... its too bad you will now have detention for the rest of your life...", "meta" : "Game_over"},"D)Do your work in class." : {"res": "You begin doing your work and boom! you fall asleep again... and get detention this time.", "meta" : "Game_over"}}
+Level2 = [{},{"A)###" : {"res": "", "meta" : ""},"B)###" : {"res": "", "meta" : ""},"C)###" : {"res": "", "meta" : ""},"D)###" : {"res": "", "meta" : ""}},{},{}]
 Level3 = [{}]
 Level4 = [{}]
 
@@ -86,29 +86,48 @@ def fetch_choices():
 
 def choice_chooser():
     global player
-    fan_print ("Do you:")
-    choices_main = fetch_choices()
-    choice_title = choices_main.keys()
-    choice_title.sort()
-    for item in choice_title:
-        fan_print(item)
-    choice = raw_input()
-    if choice == "exit":
-           exit
-    elif choice.lower() == "a" or choice.lower() == "b" or choice.lower() == "c" or choice.lower() =="d":
-        player[con[player["c_c_l"]]] = choice_dic[choice.lower()]
-        choice_ = choice_dic[choice.lower()]
-        temp = choices_main[choice_title[choice_]]
-        fan_print(temp["res"])
+    game_not_over = True
+    while game_not_over == True:
+        fan_print ("Do you:")
+        choices_main = fetch_choices()
+        choice_title = choices_main.keys()
+        choice_title.sort()
+        for item in choice_title:
+            fan_print(item)
+        choice = raw_input()
+        if choice == "exit":
+            exit
+            game_not_over == False
+        elif choice.lower() == "a" or choice.lower() == "b" or choice.lower() == "c" or choice.lower() =="d":
+            player[con[player["c_c_l"]]] = choice_dic[choice.lower()]
+            choice_ = choice_dic[choice.lower()]
+            specific = choices_main[choice_title[choice_]]
+            fan_print(specific["res"])
+            if specific["meta"] == "Game_over":
+                game_not_over = False
+                exit
+            elif specific["meta"] == "next":
+                player["c_c_l"] = player["c_c_l"]+1
 def introduction():
     intro = "Gaa, you appear to have fallen asleep in Mr. Stoddard's class again, You look at the computer infront of you, then at the clock which reads '7:55', You sigh, 6 hours of school left and you are already falling asleep. You hope you can avoid getting detention today. You start thinking about what you should do first..."
     fan_print(intro)
+
 def main():
-    introduction()
-    print SCREENTEXT
-    choice_chooser()
+    global player
+    global SCREENTEXT
+    play_again = True
+    while play_again == True:
+        player = {"health" : 100,"c_c_l" : 1, "c_c_s" : 0,"c_on_1": "","c_on_2" : "", "c_on_3": "","c_on_4": ""}
+        SCREENTEXT = []
+        introduction()
+        choice_chooser()
+        fan_print("GAME OVER")
+        fan_print("would you like to play again (y/n)")
+        if raw_input().lower() == "n":
+            play_again = False
+    
 ### MAIN BODY ###
 redraw_screen()
 main()
 ti.sleep(1)
-{"A)###" : {"res": "", "meta" : ""},"B)###" : {"res": "", "meta" : ""},"C)###" : {"res": "", "meta" : ""},"D)###" : {"res": "", "meta" : ""}}
+#  TEMPLATE # {"A)###" : {"res": "", "meta" : ""},"B)###" : {"res": "", "meta" : ""},"C)###" : {"res": "", "meta" : ""},"D)###" : {"res": "", "meta" : ""}}
