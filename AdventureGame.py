@@ -87,7 +87,7 @@ def monster_att():
     if choice == 0:
         fan_print("The troll swings a low slash from the left")
         action = player_action()
-        if action[0] == 0 and action[1] > 40:
+        if action[0] == 0 and action[1] > 50:
             fan_print("You sucessfully avoided the trolls action.")
             return 0
         else:
@@ -96,7 +96,7 @@ def monster_att():
     elif choice == 1:
         fan_print("The troll slashes down from above.")
         action = player_action()
-        if action[0] == 1 and action[1] > 40:
+        if action[0] == 1 and action[1] > 50:
             fan_print("You sucessfully avoided the trolls action.")
             return 0
         else:
@@ -105,7 +105,7 @@ def monster_att():
     elif choice == 2:
         fan_print("The troll slashes from the right.")
         action = player_action()
-        if action[0] == 2 and action[1] > 40:
+        if action[0] == 2 and action[1] > 50:
             fan_print("You sucessfully avoided the trolls action.")
             return 0
         else:
@@ -114,12 +114,59 @@ def monster_att():
     elif choice == 3:
         fan_print("The troll stabs at you.")
         action = player_action()
-        if action[0] == 3 and action[1] > 40:
+        if action[0] == 3 and action[1] > 50:
             fan_print("You sucessfully avoided the trolls action.")
             return 0
         else:
             fan_print("The Troll delt 10 damage to you.")
             return 10
+def player_att():
+    fan_print("Do you?")
+    fan_print("A)Slash left")
+    fan_print("B)Slash right")
+    fan_print("C)Slash above")
+    fan_print("D)Stab")
+    choice = raw_input()
+    if choice.lower() == "a":
+        fan_print("You slashed left at the troll")
+        action = troll_action()
+        if action > 50:
+            fan_print("The troll evaded your attack.")
+            return 0
+        else:
+            fan_print("You delt 10 damage to the Troll")
+            return 10
+    elif choice.lower() == "b":
+        fan_print("You slashed right at the troll")
+        action = troll_action()
+        if action > 50:
+            fan_print("The troll evaded your attack.")
+            return 0
+        else:
+            fan_print("You delt 10 damage to the Troll")
+            return 10
+    elif choice.lower() == "c":
+        fan_print("You slashed above at the troll")
+        action = troll_action()
+        if action > 50:
+            fan_print("The troll evaded your attack.")
+            return 0
+        else:
+            fan_print("You delt 10 damage to the Troll")
+            return 10
+    elif choice.lower() == "d":
+        fan_print("You slabed at the troll")
+        action = troll_action()
+        if action > 50:
+            fan_print("The troll evaded your attack.")
+            return 0
+        else:
+            fan_print("You delt 10 damage to the Troll")
+            return 10
+    else:
+        return 0
+def troll_action():
+    return r.randint(0,100)
         
 def player_action():
     fan_print("Do you?")
@@ -129,7 +176,7 @@ def player_action():
     fan_print("D)Dodge right")
     fan_print("E)Dodge left")
     choice = raw_input()
-    return [choice_dic[choice.lower()],r.randint(0,100)]
+    return [choice_dic.get(choice.lower(),-1),r.randint(0,100)]
 def fight_troll():
     global player
     global SCREENTEXT
@@ -139,7 +186,9 @@ def fight_troll():
     fan_print("You now suddenly have armor and a sword")
     fan_print("The fight begins now...")
     while player["health"] > 0 and monster > 0:
-        monster_att()
+        player["health"] = player["health"]-monster_att()
+        monster = monster-player_att()
+        fan_print("The Troll has %d hit points left" %(monster))
 def choice_chooser():
     global player
     game_not_over = True
