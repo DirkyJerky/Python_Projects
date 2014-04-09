@@ -37,4 +37,4 @@ def get_percen_e():
         print ('The percentage of words with no "E" is %d percent.'%(percent))
 ### Main body ###
 get_start_letter()
-#get_percen_e()
+get_percen_e()
