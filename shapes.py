@@ -42,6 +42,5 @@ class Line(object):
 class Triangle(object):
     """Represents a triangle based on three vertices"""
     def __init__(self):
-        super(Triangle, self).__init__()
-        self.arg = arg
+        pass
         
