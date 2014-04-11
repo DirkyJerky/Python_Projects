@@ -1,0 +1,570 @@
+
+
+
+Information
+
+
+
+
+Connect To:
+
+
+
+us.oc.tc
+
+
+
+
+
+Versions
+
+
+
+1.7
+
+
+
+
+Status
+
+
+
+All Servers Online
+
+
+
+
+Last Updated
+
+
+less than a minute
+ago
+
+
+
+
+
+Staff Online
+
+GS01
+
+0
+
+
+
+
+GS02
+
+0
+
+
+
+
+GS03
+
+0
+
+
+
+
+GS04
+
+0
+
+
+
+
+GS05
+
+0
+
+
+
+
+GS06
+
+0
+
+
+
+
+GS07
+
+0
+
+
+
+
+GS08
+
+0
+
+
+
+
+GS09
+
+0
+
+
+
+
+GS10
+
+0
+
+
+
+
+GS11
+
+0
+
+
+
+
+GS12
+
+0
+
+
+
+
+
+
+
+
+GS01
+
+0
+
+
+
+
+
+
+
+
+GS02
+
+0
+
+
+
+
+
+
+
+
+GS03
+
+6
+
+
+Now:
+GS: Twisted
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next:
+GS: Frozen Palace
+
+
+
+
+
+
+
+
+GS04
+
+0
+
+
+
+
+
+
+
+
+GS05
+
+0
+
+
+
+
+
+
+
+
+GS06
+
+0
+
+
+
+
+
+
+
+
+GS07
+
+0
+
+
+
+
+
+
+
+
+GS08
+
+0
+
+
+
+
+
+
+
+
+GS09
+
+7
+
+
+Now:
+GS: Twisted
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next:
+GS: Frozen Palace
+
+
+
+
+
+
+
+
+GS10
+
+0
+
+
+
+
+
+
+
+
+GS11
+
+0
+
+
+
+
+
+
+
+
+GS12
+
+0
+
+
+
+
+
+
+
+
+
+0
+</small>
+</h4>
+
+<h4 style='width: 600px;'>
+GS07
+<small>
+0
+</small>
+</h4>
+
+<h4 style='width: 600px;'>
+GS08
+<small>
+0
+</small>
+</h4>
+
+<h4 style='width: 600px;'>
+GS09
+<small>
+0
+</small>
+</h4>
+
+<h4 style='width: 600px;'>
+GS10
+<small>
+0
+</small>
+</h4>
+
+<h4 style='width: 600px;'>
+GS11
+<small>
+0
+</small>
+</h4>
+
+<h4 style='width: 600px;'>
+GS12
+<small>
+0
+</small>
+</h4>
+
+</div>
+<div class='span8'>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+GS01
+<small>
+0
+</small>
+</h4>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+GS02
+<small>
+0
+</small>
+</h4>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+GS03
+<small>
+6
+</small>
+<a class='label label-success pull-right' href='/maps#gstwisted'>
+Now:
+GS: Twisted
+</a>
+</h4>
+<a href='/coolcrepeer77' rel='tooltip' style='display: inline-block;' title='coolcrepeer77'>
+<a href='/coolcrepeer77'><img class='avatar' src='https://avatar.oc.tc/coolcrepeer77/40.png' alt='coolcrepeer77' title='coolcrepeer77'rel='tooltip'data-player='coolcrepeer77' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/1Ender_Dark' rel='tooltip' style='display: inline-block;' title='1Ender_Dark'>
+<a href='/1Ender_Dark'><img class='avatar' src='https://avatar.oc.tc/1Ender_Dark/40.png' alt='1Ender_Dark' title='1Ender_Dark'rel='tooltip'data-player='1Ender_Dark' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/gygciu' rel='tooltip' style='display: inline-block;' title='gygciu'>
+<a href='/gygciu'><img class='avatar' src='https://avatar.oc.tc/gygciu/40.png' alt='gygciu' title='gygciu'rel='tooltip'data-player='gygciu' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/bobbyjoebenson' rel='tooltip' style='display: inline-block;' title='bobbyjoebenson'>
+<a href='/bobbyjoebenson'><img class='avatar' src='https://avatar.oc.tc/bobbyjoebenson/40.png' alt='bobbyjoebenson' title='bobbyjoebenson'rel='tooltip'data-player='bobbyjoebenson' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/TheFer99' rel='tooltip' style='display: inline-block;' title='TheFer99'>
+<a href='/TheFer99'><img class='avatar' src='https://avatar.oc.tc/TheFer99/40.png' alt='TheFer99' title='TheFer99'rel='tooltip'data-player='TheFer99' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/TOBITEC16' rel='tooltip' style='display: inline-block;' title='TOBITEC16'>
+<a href='/TOBITEC16'><img class='avatar' src='https://avatar.oc.tc/TOBITEC16/40.png' alt='TOBITEC16' title='TOBITEC16'rel='tooltip'data-player='TOBITEC16' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<div style='width: 600px;'>
+<a class='label label-info pull-right' href='/maps#gsfrozenpalace'>
+Next:
+GS: Frozen Palace
+</a>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+GS04
+<small>
+0
+</small>
+</h4>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+GS05
+<small>
+0
+</small>
+</h4>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+GS06
+<small>
+0
+</small>
+</h4>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+GS07
+<small>
+0
+</small>
+</h4>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+GS08
+<small>
+0
+</small>
+</h4>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+GS09
+<small>
+7
+</small>
+<a class='label label-success pull-right' href='/maps#gstwisted'>
+Now:
+GS: Twisted
+</a>
+</h4>
+<a href='/StrikeKiller60' rel='tooltip' style='display: inline-block;' title='StrikeKiller60'>
+<a href='/StrikeKiller60'><img class='avatar' src='https://avatar.oc.tc/StrikeKiller60/40.png' alt='StrikeKiller60' title='StrikeKiller60'rel='tooltip'data-player='StrikeKiller60' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Marta2006' rel='tooltip' style='display: inline-block;' title='Marta2006'>
+<a href='/Marta2006'><img class='avatar' src='https://avatar.oc.tc/Marta2006/40.png' alt='Marta2006' title='Marta2006'rel='tooltip'data-player='Marta2006' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/tecnomagia' rel='tooltip' style='display: inline-block;' title='tecnomagia'>
+<a href='/tecnomagia'><img class='avatar' src='https://avatar.oc.tc/tecnomagia/40.png' alt='tecnomagia' title='tecnomagia'rel='tooltip'data-player='tecnomagia' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/interfan_1' rel='tooltip' style='display: inline-block;' title='interfan_1'>
+<a href='/interfan_1'><img class='avatar' src='https://avatar.oc.tc/interfan_1/40.png' alt='interfan_1' title='interfan_1'rel='tooltip'data-player='interfan_1' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Captain_Stars11' rel='tooltip' style='display: inline-block;' title='Captain_Stars11'>
+<a href='/Captain_Stars11'><img class='avatar' src='https://avatar.oc.tc/Captain_Stars11/40.png' alt='Captain_Stars11' title='Captain_Stars11'rel='tooltip'data-player='Captain_Stars11' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Kokois696' rel='tooltip' style='display: inline-block;' title='Kokois696'>
+<a href='/Kokois696'><img class='avatar' src='https://avatar.oc.tc/Kokois696/40.png' alt='Kokois696' title='Kokois696'rel='tooltip'data-player='Kokois696' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/VideoGamePhrase' rel='tooltip' style='display: inline-block;' title='VideoGamePhrase'>
+<a href='/VideoGamePhrase'><img class='avatar' src='https://avatar.oc.tc/VideoGamePhrase/40.png' alt='VideoGamePhrase' title='VideoGamePhrase'rel='tooltip'data-player='VideoGamePhrase' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<div style='width: 600px;'>
+<a class='label label-info pull-right' href='/maps#gsfrozenpalace'>
+Next:
+GS: Frozen Palace
+</a>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+GS10
+<small>
+0
+</small>
+</h4>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+GS11
+<small>
+0
+</small>
+</h4>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+GS12
+<small>
+0
+</small>
+</h4>
+
+</div>
+</div>
+</div>
+</div>
+</div>

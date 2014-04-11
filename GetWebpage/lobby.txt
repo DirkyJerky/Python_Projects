@@ -1,0 +1,380 @@
+
+
+
+Information
+
+
+
+
+Connect To:
+
+
+
+us.oc.tc
+
+
+
+
+
+Versions
+
+
+
+1.7
+
+
+
+
+Status
+
+
+
+All Servers Online
+
+
+
+
+Last Updated
+
+
+less than a minute
+ago
+
+
+
+
+
+Staff Online
+
+Lobby 1
+
+1
+
+
+
+
+
+
+
+
+
+Lobby 2
+
+0
+
+
+
+
+Lobby 3
+
+0
+
+
+
+
+Lobby 4
+
+0
+
+
+
+
+Lobby 5
+
+0
+
+
+
+
+
+
+
+
+Lobby 1
+
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lobby 2
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lobby 3
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lobby 4
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lobby 5
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<small>
+1
+</small>
+</h4>
+<a href='/Tywnis' rel='tooltip' style='display: inline-block;' title='Tywnis'>
+<a href='/Tywnis'><img class='avatar' src='https://avatar.oc.tc/Tywnis/40.png' alt='Tywnis' title='Tywnis'rel='tooltip'data-player='Tywnis' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<div style='width: 600px;'>
+</div>
+
+<h4 style='width: 600px;'>
+Lobby 2
+<small>
+0
+</small>
+</h4>
+
+<h4 style='width: 600px;'>
+Lobby 3
+<small>
+0
+</small>
+</h4>
+
+<h4 style='width: 600px;'>
+Lobby 4
+<small>
+0
+</small>
+</h4>
+
+<h4 style='width: 600px;'>
+Lobby 5
+<small>
+0
+</small>
+</h4>
+
+</div>
+<div class='span8'>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+Lobby 1
+<small>
+6
+</small>
+</h4>
+<a href='/latiku3' rel='tooltip' style='display: inline-block;' title='latiku3'>
+<a href='/latiku3'><img class='avatar' src='https://avatar.oc.tc/latiku3/40.png' alt='latiku3' title='latiku3'rel='tooltip'data-player='latiku3' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Vladdko' rel='tooltip' style='display: inline-block;' title='Vladdko'>
+<a href='/Vladdko'><img class='avatar' src='https://avatar.oc.tc/Vladdko/40.png' alt='Vladdko' title='Vladdko'rel='tooltip'data-player='Vladdko' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/francomon44' rel='tooltip' style='display: inline-block;' title='francomon44'>
+<a href='/francomon44'><img class='avatar' src='https://avatar.oc.tc/francomon44/40.png' alt='francomon44' title='francomon44'rel='tooltip'data-player='francomon44' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/FireBlizzard101' rel='tooltip' style='display: inline-block;' title='FireBlizzard101'>
+<a href='/FireBlizzard101'><img class='avatar' src='https://avatar.oc.tc/FireBlizzard101/40.png' alt='FireBlizzard101' title='FireBlizzard101'rel='tooltip'data-player='FireBlizzard101' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Tywnis' rel='tooltip' style='display: inline-block;' title='Tywnis'>
+<a href='/Tywnis'><img class='avatar' src='https://avatar.oc.tc/Tywnis/40.png' alt='Tywnis' title='Tywnis'rel='tooltip'data-player='Tywnis' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/LucasGlassman' rel='tooltip' style='display: inline-block;' title='LucasGlassman'>
+<a href='/LucasGlassman'><img class='avatar' src='https://avatar.oc.tc/LucasGlassman/40.png' alt='LucasGlassman' title='LucasGlassman'rel='tooltip'data-player='LucasGlassman' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<div style='width: 600px;'>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+Lobby 2
+<small>
+4
+</small>
+</h4>
+<a href='/xXLuisleytorXx' rel='tooltip' style='display: inline-block;' title='xXLuisleytorXx'>
+<a href='/xXLuisleytorXx'><img class='avatar' src='https://avatar.oc.tc/xXLuisleytorXx/40.png' alt='xXLuisleytorXx' title='xXLuisleytorXx'rel='tooltip'data-player='xXLuisleytorXx' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/iReplayOCN' rel='tooltip' style='display: inline-block;' title='iReplayOCN'>
+<a href='/iReplayOCN'><img class='avatar' src='https://avatar.oc.tc/iReplayOCN/40.png' alt='iReplayOCN' title='iReplayOCN'rel='tooltip'data-player='iReplayOCN' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Striked82' rel='tooltip' style='display: inline-block;' title='Striked82'>
+<a href='/Striked82'><img class='avatar' src='https://avatar.oc.tc/Striked82/40.png' alt='Striked82' title='Striked82'rel='tooltip'data-player='Striked82' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/basic1111' rel='tooltip' style='display: inline-block;' title='basic1111'>
+<a href='/basic1111'><img class='avatar' src='https://avatar.oc.tc/basic1111/40.png' alt='basic1111' title='basic1111'rel='tooltip'data-player='basic1111' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<div style='width: 600px;'>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+Lobby 3
+<small>
+3
+</small>
+</h4>
+<a href='/buuop' rel='tooltip' style='display: inline-block;' title='buuop'>
+<a href='/buuop'><img class='avatar' src='https://avatar.oc.tc/buuop/40.png' alt='buuop' title='buuop'rel='tooltip'data-player='buuop' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Kyon43' rel='tooltip' style='display: inline-block;' title='Kyon43'>
+<a href='/Kyon43'><img class='avatar' src='https://avatar.oc.tc/Kyon43/40.png' alt='Kyon43' title='Kyon43'rel='tooltip'data-player='Kyon43' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/SmvGamer' rel='tooltip' style='display: inline-block;' title='SmvGamer'>
+<a href='/SmvGamer'><img class='avatar' src='https://avatar.oc.tc/SmvGamer/40.png' alt='SmvGamer' title='SmvGamer'rel='tooltip'data-player='SmvGamer' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<div style='width: 600px;'>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+Lobby 4
+<small>
+1
+</small>
+</h4>
+<a href='/darioen_PvP' rel='tooltip' style='display: inline-block;' title='darioen_PvP'>
+<a href='/darioen_PvP'><img class='avatar' src='https://avatar.oc.tc/darioen_PvP/40.png' alt='darioen_PvP' title='darioen_PvP'rel='tooltip'data-player='darioen_PvP' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<div style='width: 600px;'>
+</div>
+
+</div>
+</div>
+<div class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
+Lobby 5
+<small>
+4
+</small>
+</h4>
+<a href='/Volatist' rel='tooltip' style='display: inline-block;' title='Volatist'>
+<a href='/Volatist'><img class='avatar' src='https://avatar.oc.tc/Volatist/40.png' alt='Volatist' title='Volatist'rel='tooltip'data-player='Volatist' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/KillingFire' rel='tooltip' style='display: inline-block;' title='KillingFire'>
+<a href='/KillingFire'><img class='avatar' src='https://avatar.oc.tc/KillingFire/40.png' alt='KillingFire' title='KillingFire'rel='tooltip'data-player='KillingFire' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Sanchocraft' rel='tooltip' style='display: inline-block;' title='Sanchocraft'>
+<a href='/Sanchocraft'><img class='avatar' src='https://avatar.oc.tc/Sanchocraft/40.png' alt='Sanchocraft' title='Sanchocraft'rel='tooltip'data-player='Sanchocraft' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Nat1O1' rel='tooltip' style='display: inline-block;' title='Nat1O1'>
+<a href='/Nat1O1'><img class='avatar' src='https://avatar.oc.tc/Nat1O1/40.png' alt='Nat1O1' title='Nat1O1'rel='tooltip'data-player='Nat1O1' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<div style='width: 600px;'>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
