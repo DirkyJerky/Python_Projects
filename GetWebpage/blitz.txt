@@ -80,7 +80,35 @@ RAGE02
 
 Chaos
 
-0
+6
+
+
+Now:
+Bliss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next:
+The Complex
 
 
 
@@ -91,7 +119,60 @@ Chaos
 
 Cronus
 
-0
+17
+
+
+Now:
+Metallicus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+And 3 more
+
+Next:
+Nightlife
 
 
 
@@ -102,11 +183,23 @@ Cronus
 
 RAGE01
 
-10
+14
 
 
 Now:
-Hanging Garden
+Oculo
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -142,7 +235,7 @@ Hanging Garden
 
 
 Next:
-The 6th Law
+101 Rooms
 
 
 
@@ -153,11 +246,38 @@ The 6th Law
 
 RAGE02
 
-3
+12
 
 
 Now:
-Gravestone
+Oculo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -172,7 +292,7 @@ Gravestone
 
 
 Next:
-Rage Quit
+101 Rooms
 
 
 
@@ -181,44 +301,42 @@ Rage Quit
 
 
 
-width: 600px;'>
+ class='row'>
+<div class='span8'>
+<h4 style='width: 600px;'>
 Chaos
 <small>
-0
+6
 </small>
+<a class='label label-success pull-right' href='/maps#bliss'>
+Now:
+Bliss
+</a>
 </h4>
-
-<h4 style='width: 600px;'>
-Cronus
-<small>
-0
-</small>
-</h4>
-
-<h4 style='width: 600px;'>
-RAGE01
-<small>
-0
-</small>
-</h4>
-
-<h4 style='width: 600px;'>
-RAGE02
-<small>
-0
-</small>
-</h4>
-
+<a href='/Blacko999' rel='tooltip' style='display: inline-block;' title='Blacko999'>
+<a href='/Blacko999'><img class='avatar' src='https://avatar.oc.tc/Blacko999/40.png' alt='Blacko999' title='Blacko999'rel='tooltip'data-player='Blacko999' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Lurlandil' rel='tooltip' style='display: inline-block;' title='Lurlandil'>
+<a href='/Lurlandil'><img class='avatar' src='https://avatar.oc.tc/Lurlandil/40.png' alt='Lurlandil' title='Lurlandil'rel='tooltip'data-player='Lurlandil' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/cebum' rel='tooltip' style='display: inline-block;' title='cebum'>
+<a href='/cebum'><img class='avatar' src='https://avatar.oc.tc/cebum/40.png' alt='cebum' title='cebum'rel='tooltip'data-player='cebum' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/RattleStake' rel='tooltip' style='display: inline-block;' title='RattleStake'>
+<a href='/RattleStake'><img class='avatar' src='https://avatar.oc.tc/RattleStake/40.png' alt='RattleStake' title='RattleStake'rel='tooltip'data-player='RattleStake' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/HgFin' rel='tooltip' style='display: inline-block;' title='HgFin'>
+<a href='/HgFin'><img class='avatar' src='https://avatar.oc.tc/HgFin/40.png' alt='HgFin' title='HgFin'rel='tooltip'data-player='HgFin' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/BoostMyPC' rel='tooltip' style='display: inline-block;' title='BoostMyPC'>
+<a href='/BoostMyPC'><img class='avatar' src='https://avatar.oc.tc/BoostMyPC/40.png' alt='BoostMyPC' title='BoostMyPC'rel='tooltip'data-player='BoostMyPC' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<div style='width: 600px;'>
+<a class='label label-info pull-right' href='/maps#thecomplex'>
+Next:
+The Complex
+</a>
 </div>
-<div class='span8'>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
-Chaos
-<small>
-0
-</small>
-</h4>
 
 </div>
 </div>
@@ -227,9 +345,62 @@ Chaos
 <h4 style='width: 600px;'>
 Cronus
 <small>
-0
+17
 </small>
+<a class='label label-success pull-right' href='/maps#metallicus'>
+Now:
+Metallicus
+</a>
 </h4>
+<a href='/Colonel_Crafter' rel='tooltip' style='display: inline-block;' title='Colonel_Crafter'>
+<a href='/Colonel_Crafter'><img class='avatar' src='https://avatar.oc.tc/Colonel_Crafter/40.png' alt='Colonel_Crafter' title='Colonel_Crafter'rel='tooltip'data-player='Colonel_Crafter' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/KingJGJ' rel='tooltip' style='display: inline-block;' title='KingJGJ'>
+<a href='/KingJGJ'><img class='avatar' src='https://avatar.oc.tc/KingJGJ/40.png' alt='KingJGJ' title='KingJGJ'rel='tooltip'data-player='KingJGJ' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/jarimaster123' rel='tooltip' style='display: inline-block;' title='jarimaster123'>
+<a href='/jarimaster123'><img class='avatar' src='https://avatar.oc.tc/jarimaster123/40.png' alt='jarimaster123' title='jarimaster123'rel='tooltip'data-player='jarimaster123' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/juta91' rel='tooltip' style='display: inline-block;' title='juta91'>
+<a href='/juta91'><img class='avatar' src='https://avatar.oc.tc/juta91/40.png' alt='juta91' title='juta91'rel='tooltip'data-player='juta91' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/paneer10' rel='tooltip' style='display: inline-block;' title='paneer10'>
+<a href='/paneer10'><img class='avatar' src='https://avatar.oc.tc/paneer10/40.png' alt='paneer10' title='paneer10'rel='tooltip'data-player='paneer10' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Jayuzik' rel='tooltip' style='display: inline-block;' title='Jayuzik'>
+<a href='/Jayuzik'><img class='avatar' src='https://avatar.oc.tc/Jayuzik/40.png' alt='Jayuzik' title='Jayuzik'rel='tooltip'data-player='Jayuzik' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/IDANUB' rel='tooltip' style='display: inline-block;' title='IDANUB'>
+<a href='/IDANUB'><img class='avatar' src='https://avatar.oc.tc/IDANUB/40.png' alt='IDANUB' title='IDANUB'rel='tooltip'data-player='IDANUB' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/PenguinsCubed' rel='tooltip' style='display: inline-block;' title='PenguinsCubed'>
+<a href='/PenguinsCubed'><img class='avatar' src='https://avatar.oc.tc/PenguinsCubed/40.png' alt='PenguinsCubed' title='PenguinsCubed'rel='tooltip'data-player='PenguinsCubed' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/samtheman43' rel='tooltip' style='display: inline-block;' title='samtheman43'>
+<a href='/samtheman43'><img class='avatar' src='https://avatar.oc.tc/samtheman43/40.png' alt='samtheman43' title='samtheman43'rel='tooltip'data-player='samtheman43' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/SogimasPX' rel='tooltip' style='display: inline-block;' title='SogimasPX'>
+<a href='/SogimasPX'><img class='avatar' src='https://avatar.oc.tc/SogimasPX/40.png' alt='SogimasPX' title='SogimasPX'rel='tooltip'data-player='SogimasPX' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Sparanon' rel='tooltip' style='display: inline-block;' title='Sparanon'>
+<a href='/Sparanon'><img class='avatar' src='https://avatar.oc.tc/Sparanon/40.png' alt='Sparanon' title='Sparanon'rel='tooltip'data-player='Sparanon' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/micalc' rel='tooltip' style='display: inline-block;' title='micalc'>
+<a href='/micalc'><img class='avatar' src='https://avatar.oc.tc/micalc/40.png' alt='micalc' title='micalc'rel='tooltip'data-player='micalc' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/xzackly7' rel='tooltip' style='display: inline-block;' title='xzackly7'>
+<a href='/xzackly7'><img class='avatar' src='https://avatar.oc.tc/xzackly7/40.png' alt='xzackly7' title='xzackly7'rel='tooltip'data-player='xzackly7' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Reav_107' rel='tooltip' style='display: inline-block;' title='Reav_107'>
+<a href='/Reav_107'><img class='avatar' src='https://avatar.oc.tc/Reav_107/40.png' alt='Reav_107' title='Reav_107'rel='tooltip'data-player='Reav_107' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<div style='width: 600px;'>
+<span class='label label-info'>And 3 more</span>
+<a class='label label-info pull-right' href='/maps#nightlife'>
+Next:
+Nightlife
+</a>
+</div>
 
 </div>
 </div>
@@ -238,47 +409,59 @@ Cronus
 <h4 style='width: 600px;'>
 RAGE01
 <small>
-10
+14
 </small>
-<a class='label label-success pull-right' href='/maps#hanginggarden'>
+<a class='label label-success pull-right' href='/maps#oculo'>
 Now:
-Hanging Garden
+Oculo
 </a>
 </h4>
-<a href='/ZENTAR11' rel='tooltip' style='display: inline-block;' title='ZENTAR11'>
-<a href='/ZENTAR11'><img class='avatar' src='https://avatar.oc.tc/ZENTAR11/40.png' alt='ZENTAR11' title='ZENTAR11'rel='tooltip'data-player='ZENTAR11' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/audrey123' rel='tooltip' style='display: inline-block;' title='audrey123'>
+<a href='/audrey123'><img class='avatar' src='https://avatar.oc.tc/audrey123/40.png' alt='audrey123' title='audrey123'rel='tooltip'data-player='audrey123' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
-<a href='/Tibbox' rel='tooltip' style='display: inline-block;' title='Tibbox'>
-<a href='/Tibbox'><img class='avatar' src='https://avatar.oc.tc/Tibbox/40.png' alt='Tibbox' title='Tibbox'rel='tooltip'data-player='Tibbox' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/oglis' rel='tooltip' style='display: inline-block;' title='oglis'>
+<a href='/oglis'><img class='avatar' src='https://avatar.oc.tc/oglis/40.png' alt='oglis' title='oglis'rel='tooltip'data-player='oglis' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
-<a href='/BizarreTanner' rel='tooltip' style='display: inline-block;' title='BizarreTanner'>
-<a href='/BizarreTanner'><img class='avatar' src='https://avatar.oc.tc/BizarreTanner/40.png' alt='BizarreTanner' title='BizarreTanner'rel='tooltip'data-player='BizarreTanner' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/unibear9000' rel='tooltip' style='display: inline-block;' title='unibear9000'>
+<a href='/unibear9000'><img class='avatar' src='https://avatar.oc.tc/unibear9000/40.png' alt='unibear9000' title='unibear9000'rel='tooltip'data-player='unibear9000' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
-<a href='/MaximusBubbles' rel='tooltip' style='display: inline-block;' title='MaximusBubbles'>
-<a href='/MaximusBubbles'><img class='avatar' src='https://avatar.oc.tc/MaximusBubbles/40.png' alt='MaximusBubbles' title='MaximusBubbles'rel='tooltip'data-player='MaximusBubbles' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/eza1' rel='tooltip' style='display: inline-block;' title='eza1'>
+<a href='/eza1'><img class='avatar' src='https://avatar.oc.tc/eza1/40.png' alt='eza1' title='eza1'rel='tooltip'data-player='eza1' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
-<a href='/bayoton' rel='tooltip' style='display: inline-block;' title='bayoton'>
-<a href='/bayoton'><img class='avatar' src='https://avatar.oc.tc/bayoton/40.png' alt='bayoton' title='bayoton'rel='tooltip'data-player='bayoton' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/SWAG23JorDan' rel='tooltip' style='display: inline-block;' title='SWAG23JorDan'>
+<a href='/SWAG23JorDan'><img class='avatar' src='https://avatar.oc.tc/SWAG23JorDan/40.png' alt='SWAG23JorDan' title='SWAG23JorDan'rel='tooltip'data-player='SWAG23JorDan' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
-<a href='/XTommy16' rel='tooltip' style='display: inline-block;' title='XTommy16'>
-<a href='/XTommy16'><img class='avatar' src='https://avatar.oc.tc/XTommy16/40.png' alt='XTommy16' title='XTommy16'rel='tooltip'data-player='XTommy16' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/ClaudiaMillan' rel='tooltip' style='display: inline-block;' title='ClaudiaMillan'>
+<a href='/ClaudiaMillan'><img class='avatar' src='https://avatar.oc.tc/ClaudiaMillan/40.png' alt='ClaudiaMillan' title='ClaudiaMillan'rel='tooltip'data-player='ClaudiaMillan' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
-<a href='/toby22' rel='tooltip' style='display: inline-block;' title='toby22'>
-<a href='/toby22'><img class='avatar' src='https://avatar.oc.tc/toby22/40.png' alt='toby22' title='toby22'rel='tooltip'data-player='toby22' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/firefist123' rel='tooltip' style='display: inline-block;' title='firefist123'>
+<a href='/firefist123'><img class='avatar' src='https://avatar.oc.tc/firefist123/40.png' alt='firefist123' title='firefist123'rel='tooltip'data-player='firefist123' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
-<a href='/elihukas' rel='tooltip' style='display: inline-block;' title='elihukas'>
-<a href='/elihukas'><img class='avatar' src='https://avatar.oc.tc/elihukas/40.png' alt='elihukas' title='elihukas'rel='tooltip'data-player='elihukas' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/RoyShao2000' rel='tooltip' style='display: inline-block;' title='RoyShao2000'>
+<a href='/RoyShao2000'><img class='avatar' src='https://avatar.oc.tc/RoyShao2000/40.png' alt='RoyShao2000' title='RoyShao2000'rel='tooltip'data-player='RoyShao2000' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
-<a href='/FelixT05' rel='tooltip' style='display: inline-block;' title='FelixT05'>
-<a href='/FelixT05'><img class='avatar' src='https://avatar.oc.tc/FelixT05/40.png' alt='FelixT05' title='FelixT05'rel='tooltip'data-player='FelixT05' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/tim10162001' rel='tooltip' style='display: inline-block;' title='tim10162001'>
+<a href='/tim10162001'><img class='avatar' src='https://avatar.oc.tc/tim10162001/40.png' alt='tim10162001' title='tim10162001'rel='tooltip'data-player='tim10162001' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
-<a href='/BCS14' rel='tooltip' style='display: inline-block;' title='BCS14'>
-<a href='/BCS14'><img class='avatar' src='https://avatar.oc.tc/BCS14/40.png' alt='BCS14' title='BCS14'rel='tooltip'data-player='BCS14' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/68pingy' rel='tooltip' style='display: inline-block;' title='68pingy'>
+<a href='/68pingy'><img class='avatar' src='https://avatar.oc.tc/68pingy/40.png' alt='68pingy' title='68pingy'rel='tooltip'data-player='68pingy' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Ironminer2004' rel='tooltip' style='display: inline-block;' title='Ironminer2004'>
+<a href='/Ironminer2004'><img class='avatar' src='https://avatar.oc.tc/Ironminer2004/40.png' alt='Ironminer2004' title='Ironminer2004'rel='tooltip'data-player='Ironminer2004' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Dragonhero528' rel='tooltip' style='display: inline-block;' title='Dragonhero528'>
+<a href='/Dragonhero528'><img class='avatar' src='https://avatar.oc.tc/Dragonhero528/40.png' alt='Dragonhero528' title='Dragonhero528'rel='tooltip'data-player='Dragonhero528' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/LONEWOLFSS' rel='tooltip' style='display: inline-block;' title='LONEWOLFSS'>
+<a href='/LONEWOLFSS'><img class='avatar' src='https://avatar.oc.tc/LONEWOLFSS/40.png' alt='LONEWOLFSS' title='LONEWOLFSS'rel='tooltip'data-player='LONEWOLFSS' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/smilesz' rel='tooltip' style='display: inline-block;' title='smilesz'>
+<a href='/smilesz'><img class='avatar' src='https://avatar.oc.tc/smilesz/40.png' alt='smilesz' title='smilesz'rel='tooltip'data-player='smilesz' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
 <div style='width: 600px;'>
-<a class='label label-info pull-right' href='/maps#the6thlaw'>
+<a class='label label-info pull-right' href='/maps#101rooms'>
 Next:
-The 6th Law
+101 Rooms
 </a>
 </div>
 
@@ -289,26 +472,53 @@ The 6th Law
 <h4 style='width: 600px;'>
 RAGE02
 <small>
-3
+12
 </small>
-<a class='label label-success pull-right' href='/maps#gravestone'>
+<a class='label label-success pull-right' href='/maps#oculo'>
 Now:
-Gravestone
+Oculo
 </a>
 </h4>
-<a href='/candyman246100' rel='tooltip' style='display: inline-block;' title='candyman246100'>
-<a href='/candyman246100'><img class='avatar' src='https://avatar.oc.tc/candyman246100/40.png' alt='candyman246100' title='candyman246100'rel='tooltip'data-player='candyman246100' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/Connoris10' rel='tooltip' style='display: inline-block;' title='Connoris10'>
+<a href='/Connoris10'><img class='avatar' src='https://avatar.oc.tc/Connoris10/40.png' alt='Connoris10' title='Connoris10'rel='tooltip'data-player='Connoris10' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
-<a href='/habakim1234' rel='tooltip' style='display: inline-block;' title='habakim1234'>
-<a href='/habakim1234'><img class='avatar' src='https://avatar.oc.tc/habakim1234/40.png' alt='habakim1234' title='habakim1234'rel='tooltip'data-player='habakim1234' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/3rdknight' rel='tooltip' style='display: inline-block;' title='3rdknight'>
+<a href='/3rdknight'><img class='avatar' src='https://avatar.oc.tc/3rdknight/40.png' alt='3rdknight' title='3rdknight'rel='tooltip'data-player='3rdknight' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
-<a href='/guynir' rel='tooltip' style='display: inline-block;' title='guynir'>
-<a href='/guynir'><img class='avatar' src='https://avatar.oc.tc/guynir/40.png' alt='guynir' title='guynir'rel='tooltip'data-player='guynir' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+<a href='/morzanred' rel='tooltip' style='display: inline-block;' title='morzanred'>
+<a href='/morzanred'><img class='avatar' src='https://avatar.oc.tc/morzanred/40.png' alt='morzanred' title='morzanred'rel='tooltip'data-player='morzanred' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/ThatIrishCrafter' rel='tooltip' style='display: inline-block;' title='ThatIrishCrafter'>
+<a href='/ThatIrishCrafter'><img class='avatar' src='https://avatar.oc.tc/ThatIrishCrafter/40.png' alt='ThatIrishCrafter' title='ThatIrishCrafter'rel='tooltip'data-player='ThatIrishCrafter' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Hunting_Wabbits' rel='tooltip' style='display: inline-block;' title='Hunting_Wabbits'>
+<a href='/Hunting_Wabbits'><img class='avatar' src='https://avatar.oc.tc/Hunting_Wabbits/40.png' alt='Hunting_Wabbits' title='Hunting_Wabbits'rel='tooltip'data-player='Hunting_Wabbits' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/flipkid7' rel='tooltip' style='display: inline-block;' title='flipkid7'>
+<a href='/flipkid7'><img class='avatar' src='https://avatar.oc.tc/flipkid7/40.png' alt='flipkid7' title='flipkid7'rel='tooltip'data-player='flipkid7' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Pieman1657' rel='tooltip' style='display: inline-block;' title='Pieman1657'>
+<a href='/Pieman1657'><img class='avatar' src='https://avatar.oc.tc/Pieman1657/40.png' alt='Pieman1657' title='Pieman1657'rel='tooltip'data-player='Pieman1657' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/nick506' rel='tooltip' style='display: inline-block;' title='nick506'>
+<a href='/nick506'><img class='avatar' src='https://avatar.oc.tc/nick506/40.png' alt='nick506' title='nick506'rel='tooltip'data-player='nick506' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/leilani398' rel='tooltip' style='display: inline-block;' title='leilani398'>
+<a href='/leilani398'><img class='avatar' src='https://avatar.oc.tc/leilani398/40.png' alt='leilani398' title='leilani398'rel='tooltip'data-player='leilani398' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/finnks13' rel='tooltip' style='display: inline-block;' title='finnks13'>
+<a href='/finnks13'><img class='avatar' src='https://avatar.oc.tc/finnks13/40.png' alt='finnks13' title='finnks13'rel='tooltip'data-player='finnks13' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/Benja607' rel='tooltip' style='display: inline-block;' title='Benja607'>
+<a href='/Benja607'><img class='avatar' src='https://avatar.oc.tc/Benja607/40.png' alt='Benja607' title='Benja607'rel='tooltip'data-player='Benja607' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
+</a>
+<a href='/fabricawakuwaku1' rel='tooltip' style='display: inline-block;' title='fabricawakuwaku1'>
+<a href='/fabricawakuwaku1'><img class='avatar' src='https://avatar.oc.tc/fabricawakuwaku1/40.png' alt='fabricawakuwaku1' title='fabricawakuwaku1'rel='tooltip'data-player='fabricawakuwaku1' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
 </a>
 <div style='width: 600px;'>
-<a class='label label-info pull-right' href='/maps#ragequit'>
+<a class='label label-info pull-right' href='/maps#101rooms'>
 Next:
-Rage Quit
+101 Rooms
 </a>
 </div>
 
