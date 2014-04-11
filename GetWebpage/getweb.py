@@ -89,7 +89,6 @@ fpa_ = strip_tags(fpa.read())
 fb_ = strip_tags(fb.read())
 fgs_ = strip_tags(fgs.read())
 fl_ = strip_tags(fl.read())
-print fpa_
 seek_0()
 
 fpa.write(fpa_)
