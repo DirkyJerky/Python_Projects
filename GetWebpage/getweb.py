@@ -95,8 +95,18 @@ fpa.write(fpa_)
 fb.write(fb_)
 fgs.write(fgs_)
 fl.write(fl_)
-
+trun()
 fpa.close()
 fb.close()
 fgs.close()
 fl.close()
+buffer_ = ""
+with open("pa.txt","r+") as fpa:
+	for line in fpa:
+		if line.strip():
+			buffer_ = buffer_+line
+	print buffer_
+	fpa2.write(buffer_)
+	fpa2.close()
+
+

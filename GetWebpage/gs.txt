@@ -1,642 +1,79 @@
-
-
-
 Information
-
-
-
-
 Connect To:
-
-
-
 us.oc.tc
-
-
-
-
-
 Versions
-
-
-
 1.7
-
-
-
-
 Status
-
-
-
 All Servers Online
-
-
-
-
 Last Updated
-
-
 less than a minute
 ago
-
-
-
-
-
 Staff Online
-
 GS01
-
 0
-
-
-
-
 GS02
-
 0
-
-
-
-
 GS03
-
 0
-
-
-
-
 GS04
-
 0
-
-
-
-
 GS05
-
 0
-
-
-
-
 GS06
-
 0
-
-
-
-
 GS07
-
 0
-
-
-
-
 GS08
-
 0
-
-
-
-
 GS09
-
 0
-
-
-
-
 GS10
-
 0
-
-
-
-
 GS11
-
 0
-
-
-
-
 GS12
-
 0
-
-
-
-
-
-
-
-
 GS01
-
-0
-
-
-
-
-
-
-
-
-GS02
-
-0
-
-
-
-
-
-
-
-
-GS03
-
-6
-
-
+8
 Now:
 GS: Desolated
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Next:
 GS: Classic Flame
-
-
-
-
-
-
-
-
-GS04
-
-0
-
-
-
-
-
-
-
-
-GS05
-
-0
-
-
-
-
-
-
-
-
-GS06
-
-0
-
-
-
-
-
-
-
-
-GS07
-
-13
-
-
-Now:
-GS: Classic Flame
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Next:
-GS: Frozen Palace
-
-
-
-
-
-
-
-
-GS08
-
-0
-
-
-
-
-
-
-
-
-GS09
-
-5
-
-
-Now:
-GS: Vengeance
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Next:
-GS: Prototype
-
-
-
-
-
-
-
-
-GS10
-
-0
-
-
-
-
-
-
-
-
-GS11
-
-0
-
-
-
-
-
-
-
-
-GS12
-
-0
-
-
-
-
-
-
-
-
-
-0
-</small>
-</h4>
-
-<h4 style='width: 600px;'>
-GS09
-<small>
-0
-</small>
-</h4>
-
-<h4 style='width: 600px;'>
-GS10
-<small>
-0
-</small>
-</h4>
-
-<h4 style='width: 600px;'>
-GS11
-<small>
-0
-</small>
-</h4>
-
-<h4 style='width: 600px;'>
-GS12
-<small>
-0
-</small>
-</h4>
-
-</div>
-<div class='span8'>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
-GS01
-<small>
-0
-</small>
-</h4>
-
-</div>
-</div>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
 GS02
-<small>
 0
-</small>
-</h4>
-
-</div>
-</div>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
 GS03
-<small>
 6
-</small>
-<a class='label label-success pull-right' href='/maps#gsdesolated'>
 Now:
 GS: Desolated
-</a>
-</h4>
-<a href='/JAW0705' rel='tooltip' style='display: inline-block;' title='JAW0705'>
-<a href='/JAW0705'><img class='avatar' src='https://avatar.oc.tc/JAW0705/40.png' alt='JAW0705' title='JAW0705'rel='tooltip'data-player='JAW0705' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/Narondo' rel='tooltip' style='display: inline-block;' title='Narondo'>
-<a href='/Narondo'><img class='avatar' src='https://avatar.oc.tc/Narondo/40.png' alt='Narondo' title='Narondo'rel='tooltip'data-player='Narondo' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/kcbj022' rel='tooltip' style='display: inline-block;' title='kcbj022'>
-<a href='/kcbj022'><img class='avatar' src='https://avatar.oc.tc/kcbj022/40.png' alt='kcbj022' title='kcbj022'rel='tooltip'data-player='kcbj022' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/the_hooded_bane' rel='tooltip' style='display: inline-block;' title='the_hooded_bane'>
-<a href='/the_hooded_bane'><img class='avatar' src='https://avatar.oc.tc/the_hooded_bane/40.png' alt='the_hooded_bane' title='the_hooded_bane'rel='tooltip'data-player='the_hooded_bane' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/crazygamingaj123' rel='tooltip' style='display: inline-block;' title='crazygamingaj123'>
-<a href='/crazygamingaj123'><img class='avatar' src='https://avatar.oc.tc/crazygamingaj123/40.png' alt='crazygamingaj123' title='crazygamingaj123'rel='tooltip'data-player='crazygamingaj123' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/Boofless' rel='tooltip' style='display: inline-block;' title='Boofless'>
-<a href='/Boofless'><img class='avatar' src='https://avatar.oc.tc/Boofless/40.png' alt='Boofless' title='Boofless'rel='tooltip'data-player='Boofless' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<div style='width: 600px;'>
-<a class='label label-info pull-right' href='/maps#gsclassicflame'>
 Next:
 GS: Classic Flame
-</a>
-</div>
-
-</div>
-</div>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
 GS04
-<small>
 0
-</small>
-</h4>
-
-</div>
-</div>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
 GS05
-<small>
-0
-</small>
-</h4>
-
-</div>
-</div>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
-GS06
-<small>
-0
-</small>
-</h4>
-
-</div>
-</div>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
-GS07
-<small>
-13
-</small>
-<a class='label label-success pull-right' href='/maps#gsclassicflame'>
+6
 Now:
-GS: Classic Flame
-</a>
-</h4>
-<a href='/raichu1112' rel='tooltip' style='display: inline-block;' title='raichu1112'>
-<a href='/raichu1112'><img class='avatar' src='https://avatar.oc.tc/raichu1112/40.png' alt='raichu1112' title='raichu1112'rel='tooltip'data-player='raichu1112' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/Losong' rel='tooltip' style='display: inline-block;' title='Losong'>
-<a href='/Losong'><img class='avatar' src='https://avatar.oc.tc/Losong/40.png' alt='Losong' title='Losong'rel='tooltip'data-player='Losong' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/Big_Nate_246' rel='tooltip' style='display: inline-block;' title='Big_Nate_246'>
-<a href='/Big_Nate_246'><img class='avatar' src='https://avatar.oc.tc/Big_Nate_246/40.png' alt='Big_Nate_246' title='Big_Nate_246'rel='tooltip'data-player='Big_Nate_246' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/inventor22002' rel='tooltip' style='display: inline-block;' title='inventor22002'>
-<a href='/inventor22002'><img class='avatar' src='https://avatar.oc.tc/inventor22002/40.png' alt='inventor22002' title='inventor22002'rel='tooltip'data-player='inventor22002' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/BunnyGAJ' rel='tooltip' style='display: inline-block;' title='BunnyGAJ'>
-<a href='/BunnyGAJ'><img class='avatar' src='https://avatar.oc.tc/BunnyGAJ/40.png' alt='BunnyGAJ' title='BunnyGAJ'rel='tooltip'data-player='BunnyGAJ' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/DiamantexGamer' rel='tooltip' style='display: inline-block;' title='DiamantexGamer'>
-<a href='/DiamantexGamer'><img class='avatar' src='https://avatar.oc.tc/DiamantexGamer/40.png' alt='DiamantexGamer' title='DiamantexGamer'rel='tooltip'data-player='DiamantexGamer' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/basti455' rel='tooltip' style='display: inline-block;' title='basti455'>
-<a href='/basti455'><img class='avatar' src='https://avatar.oc.tc/basti455/40.png' alt='basti455' title='basti455'rel='tooltip'data-player='basti455' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/Gabe205' rel='tooltip' style='display: inline-block;' title='Gabe205'>
-<a href='/Gabe205'><img class='avatar' src='https://avatar.oc.tc/Gabe205/40.png' alt='Gabe205' title='Gabe205'rel='tooltip'data-player='Gabe205' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/ZPIREAGamer' rel='tooltip' style='display: inline-block;' title='ZPIREAGamer'>
-<a href='/ZPIREAGamer'><img class='avatar' src='https://avatar.oc.tc/ZPIREAGamer/40.png' alt='ZPIREAGamer' title='ZPIREAGamer'rel='tooltip'data-player='ZPIREAGamer' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/Cool_Face123' rel='tooltip' style='display: inline-block;' title='Cool_Face123'>
-<a href='/Cool_Face123'><img class='avatar' src='https://avatar.oc.tc/Cool_Face123/40.png' alt='Cool_Face123' title='Cool_Face123'rel='tooltip'data-player='Cool_Face123' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/ParadoxicWhale' rel='tooltip' style='display: inline-block;' title='ParadoxicWhale'>
-<a href='/ParadoxicWhale'><img class='avatar' src='https://avatar.oc.tc/ParadoxicWhale/40.png' alt='ParadoxicWhale' title='ParadoxicWhale'rel='tooltip'data-player='ParadoxicWhale' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/Mrbeadd' rel='tooltip' style='display: inline-block;' title='Mrbeadd'>
-<a href='/Mrbeadd'><img class='avatar' src='https://avatar.oc.tc/Mrbeadd/40.png' alt='Mrbeadd' title='Mrbeadd'rel='tooltip'data-player='Mrbeadd' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/manadox' rel='tooltip' style='display: inline-block;' title='manadox'>
-<a href='/manadox'><img class='avatar' src='https://avatar.oc.tc/manadox/40.png' alt='manadox' title='manadox'rel='tooltip'data-player='manadox' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<div style='width: 600px;'>
-<a class='label label-info pull-right' href='/maps#gsfrozenpalace'>
+GS: Weeping Shadows
 Next:
-GS: Frozen Palace
-</a>
-</div>
-
-</div>
-</div>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
-GS08
-<small>
+GS: Quartz Mine
+GS06
 0
-</small>
-</h4>
-
-</div>
-</div>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
-GS09
-<small>
-5
-</small>
-<a class='label label-success pull-right' href='/maps#gsvengeance'>
+GS07
+6
 Now:
-GS: Vengeance
-</a>
-</h4>
-<a href='/AlalJax' rel='tooltip' style='display: inline-block;' title='AlalJax'>
-<a href='/AlalJax'><img class='avatar' src='https://avatar.oc.tc/AlalJax/40.png' alt='AlalJax' title='AlalJax'rel='tooltip'data-player='AlalJax' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/rush2468' rel='tooltip' style='display: inline-block;' title='rush2468'>
-<a href='/rush2468'><img class='avatar' src='https://avatar.oc.tc/rush2468/40.png' alt='rush2468' title='rush2468'rel='tooltip'data-player='rush2468' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/stckmanninja' rel='tooltip' style='display: inline-block;' title='stckmanninja'>
-<a href='/stckmanninja'><img class='avatar' src='https://avatar.oc.tc/stckmanninja/40.png' alt='stckmanninja' title='stckmanninja'rel='tooltip'data-player='stckmanninja' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/cammacz04' rel='tooltip' style='display: inline-block;' title='cammacz04'>
-<a href='/cammacz04'><img class='avatar' src='https://avatar.oc.tc/cammacz04/40.png' alt='cammacz04' title='cammacz04'rel='tooltip'data-player='cammacz04' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<a href='/Daniel_Verdugo' rel='tooltip' style='display: inline-block;' title='Daniel_Verdugo'>
-<a href='/Daniel_Verdugo'><img class='avatar' src='https://avatar.oc.tc/Daniel_Verdugo/40.png' alt='Daniel_Verdugo' title='Daniel_Verdugo'rel='tooltip'data-player='Daniel_Verdugo' data-size='40' width='40' height='40' style='width: 40px; height: 40px; margin-bottom: 2px; margin-right: 2px'/></a>
-</a>
-<div style='width: 600px;'>
-<a class='label label-info pull-right' href='/maps#gsprototype'>
+GS: Splinter
 Next:
 GS: Prototype
-</a>
-</div>
-
-</div>
-</div>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
+GS08
+0
+GS09
+0
 GS10
-<small>
 0
-</small>
-</h4>
-
-</div>
-</div>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
 GS11
-<small>
 0
-</small>
-</h4>
-
-</div>
-</div>
-<div class='row'>
-<div class='span8'>
-<h4 style='width: 600px;'>
 GS12
-<small>
-0
-</small>
-</h4>
-
-</div>
-</div>
-</div>
-</div>
-</div>
+5
+Now:
+GS: Vengeance
+Next:
+GS: Grassy Knoll
