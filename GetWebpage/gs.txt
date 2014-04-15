@@ -34,35 +34,31 @@ GS11
 GS12
 0
 GS01
-8
+13
 Now:
-GS: Desolated
+GS: Quartz Mine
 Next:
-GS: Classic Flame
+GS: Frozen Palace
 GS02
-0
-GS03
-6
+9
 Now:
-GS: Desolated
+GS: Grassy Knoll
 Next:
-GS: Classic Flame
+GS: Weeping Shadows
+GS03
+7
+Now:
+GS: Frozen Palace
+Next:
+GS: Grassy Knoll
 GS04
 0
 GS05
-6
-Now:
-GS: Weeping Shadows
-Next:
-GS: Quartz Mine
+0
 GS06
 0
 GS07
-6
-Now:
-GS: Splinter
-Next:
-GS: Prototype
+0
 GS08
 0
 GS09
@@ -72,8 +68,4 @@ GS10
 GS11
 0
 GS12
-5
-Now:
-GS: Vengeance
-Next:
-GS: Grassy Knoll
+0

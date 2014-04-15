@@ -30,16 +30,16 @@ class Rectangle:
     def perimeter(self):
         perimeter = self.width*2+self.height*2
         return perimeter
-class Line(object):
+class Line():
     """represents a line with a start and end point"""
     def __init__(self,x1=0,y1=0,x2=0,y2=0):
         self.start = Point(x1,y1)
         self.end = Point(x1,y1)
-    def distance(self):
+    def size(self):
         dx = self.start.x - self.end.x
         dy = self.start.y - self.end.y
         return math.sqrt(dx*dx+dy*dy)
-class Triangle(object):
+class Triangle():
     """Represents a triangle based on three vertices"""
     def __init__(self):
         pass

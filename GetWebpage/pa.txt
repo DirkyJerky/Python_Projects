@@ -12,9 +12,9 @@ Staff Online
 Alpha
 0
 Beta
-0
+1
 Gamma
-2
+0
 CTW1
 0
 CTW2
@@ -22,13 +22,13 @@ CTW2
 DTC1
 0
 DTC2
-3
+0
 TDM
 0
 Gear
 0
 Mini01
-2
+0
 Mini02
 0
 Mini03
@@ -52,158 +52,158 @@ Mini11
 KotH
 0
 Nostalgia
-0
+1
 Alpha
-61
+99
 Now:
-Harb
-And 47 more
-Next:
-Blocks DTC
-Beta
-51
-Now:
-Battle of Lyndanisse
-And 37 more
-Next:
 The Nile
-Gamma
-62
+And 85 more
+Next:
+Viridun
+Beta
+46
 Now:
-Wrath Altar
-And 48 more
+Moonlight Summit
+And 32 more
+Next:
+Soviet Mills
+Gamma
+40
+Now:
+Viridun
+And 26 more
 Next:
 Hot Dam
 CTW1
-64
+65
 Now:
-Mushroom Gorge
-And 50 more
+Blocks CTW
+And 51 more
 Next:
-Race for Victory 3
-CTW2
-86
-Now:
 The 4th Law
-And 72 more
-Next:
-Hadron
-DTC1
+CTW2
 59
 Now:
-Midnight Train
+Race for Victory 3
 And 45 more
+Next:
+Jungle Beat
+DTC1
+41
+Now:
+Midnight Train
+And 27 more
 Next:
 Soviet Mills
 DTC2
-58
+37
 Now:
-Moonlight Summit
-And 44 more
+Hot Dam
+And 23 more
 Next:
-The Nile
+Bessemer's Process
 TDM
-55
-Now:
-Wooly Woods
-And 41 more
-Next:
-Modern Cityscape
-Gear
-65
-Now:
-Necro
-And 51 more
-Next:
-Rift
-Mini01
-31
-Now:
-Avery Island
-And 17 more
-Next:
-Deepwind Jungle
-Mini02
 39
 Now:
-Desert Cataract
+Twilight Zone
 And 25 more
 Next:
-Snowy Wars
-Mini03
+The Arena
+Gear
+55
+Now:
+Rift
+And 41 more
+Next:
+Icescar
+Mini01
 36
 Now:
-Deepwind Jungle
+Banana Split
 And 22 more
 Next:
-Atromix
-Mini04
+Facility
+Mini02
+26
+Now:
+Facility
+And 12 more
+Next:
+Sunrise Over Paradise
+Mini03
 35
 Now:
-Atromix
+Circus DTC
 And 21 more
 Next:
-Hot Dam: Mini
-Mini05
-31
-Now:
 The Fenland
-And 17 more
-Next:
-Desert Cataract
-Mini06
-34
-Now:
-Boom
-And 20 more
-Next:
-Banana Split
-Mini07
-31
-Now:
-Circus DTC
-And 17 more
-Next:
-The Fenland
-Mini08
-34
+Mini04
+37
 Now:
 Desert Cataract
-And 20 more
+And 23 more
 Next:
 Snowy Wars
-Mini09
+Mini05
+35
+Now:
+Cloud Nine
+And 21 more
+Next:
+Boom
+Mini06
+32
+Now:
+Cloud Nine
+And 18 more
+Next:
+Boom
+Mini07
 30
 Now:
 Facility
 And 16 more
 Next:
 Sunrise Over Paradise
-Mini10
-24
+Mini08
+36
 Now:
-Atromix
-And 10 more
+Boom
+And 22 more
 Next:
+SolitudeMC
+Mini09
+23
+Now:
 Hot Dam: Mini
-Mini11
-31
+And 9 more
+Next:
+Cloud Nine
+Mini10
+37
 Now:
+Boom
+And 23 more
+Next:
 Banana Split
-And 17 more
+Mini11
+37
+Now:
+The Fenland
+And 23 more
 Next:
-Facility
+Desert Cataract
 KotH
-46
+26
 Now:
-Equinox
-And 32 more
-Next:
 Storm
-Nostalgia
-58
-Now:
-Avalanche
-And 44 more
+And 12 more
 Next:
-Airship Battle
+Urban Jungle
+Nostalgia
+36
+Now:
+Race for Victory
+And 22 more
+Next:
+A Watery Grave

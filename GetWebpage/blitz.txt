@@ -18,27 +18,27 @@ RAGE01
 RAGE02
 0
 Chaos
-12
-Now:
-Wind Waker
-Next:
-Blitzkrieg
-Cronus
-6
-Now:
-Drow's Crevice: Blitz
-Next:
-Battle of Lyndanisse Blitz
-RAGE01
-27
-Now:
-The 6th Law
-And 13 more
-Next:
-Oculo
-RAGE02
 9
 Now:
-Grimsnes
+Blitzkrieg
 Next:
-The 6th Law
+Harb Blitz
+Cronus
+8
+Now:
+Harb Blitz
+Next:
+CotBot
+RAGE01
+10
+Now:
+Gravestone
+Next:
+Rage Quit
+RAGE02
+17
+Now:
+Fallen Courtyard
+And 3 more
+Next:
+Gooseberry
