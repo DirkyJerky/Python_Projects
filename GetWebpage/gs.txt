@@ -34,23 +34,15 @@ GS11
 GS12
 0
 GS01
-13
+12
 Now:
-GS: Quartz Mine
-Next:
-GS: Frozen Palace
-GS02
-9
-Now:
-GS: Grassy Knoll
-Next:
 GS: Weeping Shadows
-GS03
-7
-Now:
-GS: Frozen Palace
 Next:
-GS: Grassy Knoll
+GS: Twisted
+GS02
+0
+GS03
+0
 GS04
 0
 GS05

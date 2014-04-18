@@ -10,3 +10,6 @@ r = Rectangle()
 print r.area()
 r = Rectangle(20,30)
 print r.area()
+
+l1 = Line()
+print l1.end.y

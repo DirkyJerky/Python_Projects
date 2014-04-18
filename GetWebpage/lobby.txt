@@ -20,12 +20,13 @@ Lobby 4
 Lobby 5
 0
 Lobby 1
-10
+19
+And 5 more
 Lobby 2
-13
-Lobby 3
 10
+Lobby 3
+5
 Lobby 4
-13
+5
 Lobby 5
 11

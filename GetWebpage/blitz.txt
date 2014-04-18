@@ -20,25 +20,24 @@ RAGE02
 Chaos
 9
 Now:
-Blitzkrieg
+Battle of Lyndanisse Blitz
 Next:
-Harb Blitz
+Metallicus
 Cronus
-8
+2
 Now:
 Harb Blitz
 Next:
 CotBot
 RAGE01
-10
+13
 Now:
+101 Rooms
+Next:
 Gravestone
-Next:
-Rage Quit
 RAGE02
-17
+7
 Now:
-Fallen Courtyard
-And 3 more
+Oculo
 Next:
-Gooseberry
+101 Rooms

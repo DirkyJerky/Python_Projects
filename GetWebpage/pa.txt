@@ -12,7 +12,7 @@ Staff Online
 Alpha
 0
 Beta
-1
+0
 Gamma
 0
 CTW1
@@ -52,158 +52,158 @@ Mini11
 KotH
 0
 Nostalgia
-1
+0
 Alpha
-99
+108
 Now:
 The Nile
-And 85 more
+And 94 more
 Next:
 Viridun
 Beta
-46
-Now:
-Moonlight Summit
-And 32 more
-Next:
-Soviet Mills
-Gamma
 40
 Now:
-Viridun
+Venice TDM
 And 26 more
 Next:
-Hot Dam
+Wildwood Crevice
+Gamma
+26
+Now:
+Soviet Mills
+And 12 more
+Next:
+Glacial Impact 2
 CTW1
-65
+50
 Now:
-Blocks CTW
-And 51 more
+Broken Unity
+And 36 more
 Next:
-The 4th Law
+Ring Race
 CTW2
-59
+72
 Now:
-Race for Victory 3
-And 45 more
+Fairy Tales 2: A Tale or Two
+And 58 more
 Next:
-Jungle Beat
+Broken Unity
 DTC1
-41
+39
 Now:
 Midnight Train
-And 27 more
+And 25 more
 Next:
 Soviet Mills
 DTC2
-37
+40
 Now:
-Hot Dam
-And 23 more
-Next:
 Bessemer's Process
+And 26 more
+Next:
+Mayan Apocalypse
 TDM
-39
+26
 Now:
 Twilight Zone
-And 25 more
+And 12 more
 Next:
 The Arena
 Gear
-55
+35
 Now:
+Necro
+And 21 more
+Next:
 Rift
-And 41 more
-Next:
-Icescar
 Mini01
-36
+30
 Now:
-Banana Split
-And 22 more
+Dynamo
+And 16 more
 Next:
-Facility
+BalloonsDTM
 Mini02
-26
+24
 Now:
-Facility
-And 12 more
-Next:
-Sunrise Over Paradise
-Mini03
-35
-Now:
-Circus DTC
-And 21 more
-Next:
 The Fenland
-Mini04
-37
-Now:
-Desert Cataract
-And 23 more
+And 10 more
 Next:
-Snowy Wars
-Mini05
-35
+Desert Cataract
+Mini03
+27
 Now:
-Cloud Nine
-And 21 more
+Snowy Wars
+And 13 more
 Next:
 Boom
+Mini04
+28
+Now:
+Sunrise Over Paradise
+And 14 more
+Next:
+Dynamo
+Mini05
+32
+Now:
+SolitudeMC
+And 18 more
+Next:
+Warlock
 Mini06
 32
 Now:
-Cloud Nine
+Sunrise Over Paradise
 And 18 more
 Next:
-Boom
+Dynamo
 Mini07
+29
+Now:
+Facility
+And 15 more
+Next:
+Sunrise Over Paradise
+Mini08
+27
+Now:
+Atromix
+And 13 more
+Next:
+Hot Dam: Mini
+Mini09
 30
 Now:
 Facility
 And 16 more
 Next:
 Sunrise Over Paradise
-Mini08
-36
-Now:
-Boom
-And 22 more
-Next:
-SolitudeMC
-Mini09
-23
-Now:
-Hot Dam: Mini
-And 9 more
-Next:
-Cloud Nine
 Mini10
-37
+31
 Now:
-Boom
-And 23 more
+Atromix
+And 17 more
 Next:
-Banana Split
+Hot Dam: Mini
 Mini11
-37
+38
 Now:
-The Fenland
-And 23 more
-Next:
 Desert Cataract
+And 24 more
+Next:
+Snowy Wars
 KotH
-26
+24
 Now:
 Storm
-And 12 more
+And 10 more
 Next:
 Urban Jungle
 Nostalgia
-36
+29
 Now:
 Race for Victory
-And 22 more
+And 15 more
 Next:
 A Watery Grave

@@ -32,9 +32,9 @@ class Rectangle:
         return perimeter
 class Line():
     """represents a line with a start and end point"""
-    def __init__(self,x1=0,y1=0,x2=0,y2=0):
+    def __init__(self,x1=0,y1=0,x2=0,y2=10):
         self.start = Point(x1,y1)
-        self.end = Point(x1,y1)
+        self.end = Point(x2,y2)
     def size(self):
         dx = self.start.x - self.end.x
         dy = self.start.y - self.end.y
@@ -42,5 +42,5 @@ class Line():
 class Triangle():
     """Represents a triangle based on three vertices"""
     def __init__(self):
-        pass
+        self.right = Point()
         
