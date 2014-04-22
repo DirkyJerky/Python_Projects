@@ -1,4 +1,17 @@
+##################################
+#  Ian Roth
+#
+#  Shapes.py
+#
+#  more shapes yay.png
+###################################
+
+### Module imports ###
 import math
+###  Global Variables  ###
+
+### Classes ###
+
 class Point:    
     """represents a two-dimensional point"""
     def __init__(self, x=0, y=0):
@@ -32,7 +45,7 @@ class Rectangle:
         return perimeter
 class Line():
     """represents a line with a start and end point"""
-    def __init__(self,x1=0,y1=0,x2=0,y2=10):
+    def __init__(self,x1=0,y1=0,x2=0,y2=0):
         self.start = Point(x1,y1)
         self.end = Point(x2,y2)
     def size(self):
@@ -40,7 +53,38 @@ class Line():
         dy = self.start.y - self.end.y
         return math.sqrt(dx*dx+dy*dy)
 class Triangle():
-    """Represents a triangle based on three vertices"""
-    def __init__(self):
-        self.right = Point()
-        
+    """Represents a triangle based on three vertices , 'b' is the vertice with the 90 degree angle"""
+    def __init__(self,x1=0,y1=10,x2=0,y2=0,x3=10,y3=0):
+        self.a = Point(x1,y1)
+        self.b = Point(x2,y2)
+        self.c = Point(x3,y3)
+        self.sideA = 0
+        self.sideB = 0
+        self.sideC = 0
+        self.size()
+    def size(self):
+        dx = self.b.x - self.c.x
+        dy = self.b.y - self.c.y
+        self.sideA = math.sqrt(dx*dx+dy*dy)
+        dx = self.a.x - self.c.x
+        dy = self.a.y - self.c.y
+        self.sideB = math.sqrt(dx*dx+dy*dy)
+        dx = self.b.x - self.a.x
+        dy = self.b.y - self.a.y
+        self.sideC = math.sqrt(dx*dx+dy*dy)
+    def area(self):
+        return (self.sideA*self.sideC)/2
+    def perimeter(self):
+        return self.sideA+self.sideB+self.sideC
+class Circle():
+    """Circle by center and rad"""
+    def __init__(self,x=0,y=0,r=100):
+        self.center = Point(x,y)
+        self.radius = r
+    def circumference(self):
+        return math.pi*(2*self.radius)
+    def area(self):
+        return math.pi*(self.radius**2)
+### Main body ###
+
+### Function Definitions ###

@@ -31,7 +31,7 @@ class Player():
 class Inventory():
 	"""Inventory class"""
 	def __init__(self):
-		self.maxcount = 4
+		self.maxcount = 3
 		self.slots = {}
 	def additem(self,item,ammount = 1):
 		_item_in_inventory = False
