@@ -8,8 +8,8 @@
 
 ### Module imports ###
 import math
+import turtle as t
 ###  Global Variables  ###
-
 ### Classes ###
 
 class Point:    
@@ -24,6 +24,7 @@ class Point:
         dx = self.x - p2.x
         dy = self.y - p2.y
         return math.sqrt(dx*dx+dy*dy)
+
 class Rectangle:
     """Modles a rectangle by upper left corner and size"""
     def __init__(self,width= 100,height= 100,x=0,y=0):
@@ -43,6 +44,23 @@ class Rectangle:
     def perimeter(self):
         perimeter = self.width*2+self.height*2
         return perimeter
+    def draw(self,fill_color="black",pen_color="red",pen_width=2):
+        t.hideturtle()
+        t.speed(10)
+        t.colormode(255)
+        t.color(pen_color,fill_color)
+        t.pensize(pen_width)
+        t.penup()
+        t.goto(self.corner.x,self.corner.y)
+        t.pendown()
+        fill_t()
+        for i in range(2):
+            t.forward(self.width)
+            t.left(90)
+            t.forward(self.height)
+            t.left(90)
+        fill_f()
+
 class Line():
     """represents a line with a start and end point"""
     def __init__(self,x1=0,y1=0,x2=0,y2=0):
@@ -52,9 +70,10 @@ class Line():
         dx = self.start.x - self.end.x
         dy = self.start.y - self.end.y
         return math.sqrt(dx*dx+dy*dy)
+
 class Triangle():
     """Represents a triangle based on three vertices , 'b' is the vertice with the 90 degree angle"""
-    def __init__(self,x1=0,y1=10,x2=0,y2=0,x3=10,y3=0):
+    def __init__(self,x1=0,y1=100,x2=0,y2=0,x3=100,y3=0):
         self.a = Point(x1,y1)
         self.b = Point(x2,y2)
         self.c = Point(x3,y3)
@@ -76,6 +95,21 @@ class Triangle():
         return (self.sideA*self.sideC)/2
     def perimeter(self):
         return self.sideA+self.sideB+self.sideC
+    def draw(self,fill_color="black",pen_color="red",pen_width=2):
+        t.hideturtle()
+        t.speed(10)
+        t.colormode(255)
+        t.color(pen_color,fill_color)
+        t.pensize(pen_width)
+        t.penup()
+        t.goto(self.b.x,self.b.y)
+        fill_t()
+        t.pendown()
+        t.goto(self.a.x,self.a.y)
+        t.goto(self.c.x,self.c.y)
+        t.goto(self.b.x,self.b.y)
+        fill_f()
+
 class Circle():
     """Circle by center and rad"""
     def __init__(self,x=0,y=0,r=100):
@@ -85,6 +119,22 @@ class Circle():
         return math.pi*(2*self.radius)
     def area(self):
         return math.pi*(self.radius**2)
-### Main body ###
+    def draw(self,fill_color="black",pen_color="red",pen_width=2):
+        t.hideturtle()
+        t.speed(10)
+        t.colormode(255)
+        t.color(pen_color,fill_color)
+        t.pensize(pen_width)
+        fill_t()
+        t.penup()
+        t.goto(self.center.x,self.center.y-self.radius)
+        t.pendown()
+        t.circle(self.radius)
+        fill_f()
 
 ### Function Definitions ###
+def fill_t():
+    t.begin_fill()
+def fill_f():
+    t.end_fill()
+### Main body ###
