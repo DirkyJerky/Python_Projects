@@ -13,7 +13,7 @@ import turtle as t
 ### Classes ###
 
 class Point:    
-    """represents a two-dimensional point"""
+    """Represents a two-dimensional point"""
     def __init__(self, x=0, y=0):
         self.x = x
         self.y = y
@@ -26,7 +26,7 @@ class Point:
         return math.sqrt(dx*dx+dy*dy)
 
 class Rectangle:
-    """Modles a rectangle by upper left corner and size"""
+    """Repersents a rectangle by upper left corner and size"""
     def __init__(self,width= 100,height= 100,x=0,y=0):
         self.corner = Point(x,y)
         self.width = width
@@ -44,10 +44,8 @@ class Rectangle:
     def perimeter(self):
         perimeter = self.width*2+self.height*2
         return perimeter
-    def draw(self,fill_color="black",pen_color="red",pen_width=2):
-        t.hideturtle()
-        t.speed(10)
-        t.colormode(255)
+    def draw(self,fill_color="black",pen_color="red",pen_width=2,colormode256 = False):
+        setup(colormode256)
         t.color(pen_color,fill_color)
         t.pensize(pen_width)
         t.penup()
@@ -62,7 +60,7 @@ class Rectangle:
         fill_f()
 
 class Line():
-    """represents a line with a start and end point"""
+    """Represents a line with a start and end point"""
     def __init__(self,x1=0,y1=0,x2=0,y2=0):
         self.start = Point(x1,y1)
         self.end = Point(x2,y2)
@@ -77,28 +75,15 @@ class Triangle():
         self.a = Point(x1,y1)
         self.b = Point(x2,y2)
         self.c = Point(x3,y3)
-        self.sideA = 0
-        self.sideB = 0
-        self.sideC = 0
-        self.size()
-    def size(self):
-        dx = self.b.x - self.c.x
-        dy = self.b.y - self.c.y
-        self.sideA = math.sqrt(dx*dx+dy*dy)
-        dx = self.a.x - self.c.x
-        dy = self.a.y - self.c.y
-        self.sideB = math.sqrt(dx*dx+dy*dy)
-        dx = self.b.x - self.a.x
-        dy = self.b.y - self.a.y
-        self.sideC = math.sqrt(dx*dx+dy*dy)
+        self.sideA = self.b.distance(self.c)
+        self.sideB = self.a.distance(self.c)
+        self.sideC = self.b.distance(self.a)
     def area(self):
         return (self.sideA*self.sideC)/2
     def perimeter(self):
         return self.sideA+self.sideB+self.sideC
-    def draw(self,fill_color="black",pen_color="red",pen_width=2):
-        t.hideturtle()
-        t.speed(10)
-        t.colormode(255)
+    def draw(self,fill_color="black",pen_color="red",pen_width=2,colormode256 = False):
+        setup(colormode256)
         t.color(pen_color,fill_color)
         t.pensize(pen_width)
         t.penup()
@@ -111,7 +96,7 @@ class Triangle():
         fill_f()
 
 class Circle():
-    """Circle by center and rad"""
+    """Represents circle by center and radius"""
     def __init__(self,x=0,y=0,r=100):
         self.center = Point(x,y)
         self.radius = r
@@ -119,10 +104,8 @@ class Circle():
         return math.pi*(2*self.radius)
     def area(self):
         return math.pi*(self.radius**2)
-    def draw(self,fill_color="black",pen_color="red",pen_width=2):
-        t.hideturtle()
-        t.speed(10)
-        t.colormode(255)
+    def draw(self,fill_color="black",pen_color="red",pen_width=2,colormode256 = False):
+        setup(colormode256)
         t.color(pen_color,fill_color)
         t.pensize(pen_width)
         fill_t()
@@ -137,4 +120,9 @@ def fill_t():
     t.begin_fill()
 def fill_f():
     t.end_fill()
+def setup(colormode256):
+    t.hideturtle()
+    t.speed(10)
+    if colormode256 == True:
+        t.colormode(255)
 ### Main body ###
