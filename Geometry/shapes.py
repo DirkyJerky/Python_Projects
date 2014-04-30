@@ -122,7 +122,7 @@ def fill_f():
     t.end_fill()
 def setup(colormode256):
     t.hideturtle()
-    t.speed(100)
+    t.speed(1000)
     if colormode256 == True:
         t.colormode(255)
 ### Main body ###
