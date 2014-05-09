@@ -16,6 +16,8 @@ class Application(tk.Frame):
 
 
 		def createWidgets(self):
+
+
 			self.Name = tk.StringVar()
 			self.Adress = tk.StringVar()
 			self.Phone = tk.StringVar()
@@ -55,6 +57,9 @@ class Application(tk.Frame):
 
 			self.phoneEntry.grid(column=1,row=2,columnspan=4)
 			self.PhoneLb.grid(column=0,row=2)
+
+
+
 
 			
 		def showInfo(self):
