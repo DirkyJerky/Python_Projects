@@ -32,8 +32,8 @@ def main():
         "P                                          P",
         "P                                          P",
         "P                                          P",
-        "P                    PPPPPPPPPPP           P",
         "P                                          P",
+        "P         PP PPP PPPPP                     P",
         "P                                          P",
         "P                                          P",
         "P    PPPPPPPP                              P",
@@ -43,12 +43,12 @@ def main():
         "P                                          P",
         "P         PPPPPPP                          P",
         "P                                          P",
-        "P                     PPPPPP               P",
+        "P                     PPPPPPPPPPPEEE       P",
         "P                                          P",
-        "P   PPPPPPPPPPP                            P",
-        "P                                          P",
-        "P                 PPPPPPPPPPP              P",
-        "P                                          P",
+        "P   PPPPPPPPPPP                            PPPPPPPPPPPP",
+        "P                                                     E",
+        "P                 PPPPPPPPPPPPPPPPPPPPPp              E",
+        "P                                          PPPPPPPPPPPP",
         "P                                          P",
         "P                                          P",
         "P                                          P",
@@ -67,10 +67,10 @@ def main():
             x += 32
         y += 32
         x = 0
-
+    print entities
     total_level_width  = len(level[0])*32
     total_level_height = len(level)*32
-    camera = Camera(complex_camera, total_level_width, total_level_height)
+    camera = Camera(simple_camera, total_level_width, total_level_height)
     entities.add(player)
 
     while 1:
@@ -159,7 +159,8 @@ class Player(Entity):
     def update(self, up, down, left, right, running, platforms):
         if up:
             # only jump if on the ground
-            if self.onGround: self.yvel -= 10
+            if self.onGround:
+                self.yvel -= 10
         if down:
             pass
         if running:
@@ -172,7 +173,8 @@ class Player(Entity):
             # only accelerate with gravity if in the air
             self.yvel += 0.3
             # max falling speed
-            if self.yvel > 100: self.yvel = 100
+            if self.yvel > 100: 
+                self.yvel = 100
         if not(left or right):
             self.xvel = 0
         # increment in x direction
@@ -203,6 +205,7 @@ class Player(Entity):
                     self.yvel = 0
                 if yvel < 0:
                     self.rect.top = p.rect.bottom
+                    self.yvel = -.1
 
 
 class Platform(Entity):

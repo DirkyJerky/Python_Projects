@@ -94,6 +94,15 @@ class Application(tk.Frame):
 			self.answerVar.set(ansText)
 
 
+class test(object):
+	"""docstring for test"""
+	def __init__(self, arg):
+		self.arg = arg
+
+	def tkbutton:
+		app.function(args)
+		
+
 # Main Body
 root = tk.Tk()
 app = Application(root)
