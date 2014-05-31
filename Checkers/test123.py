@@ -22,6 +22,7 @@ def main():
     bg = Surface((32,32))
     bg.convert()
     bg.fill(Color("#000000"))
+
     entities = pygame.sprite.Group()
     player = Player(32, 32)
     platforms = []
@@ -67,7 +68,6 @@ def main():
             x += 32
         y += 32
         x = 0
-    print entities
     total_level_width  = len(level[0])*32
     total_level_height = len(level)*32
     camera = Camera(simple_camera, total_level_width, total_level_height)
